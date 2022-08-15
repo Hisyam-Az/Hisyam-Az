@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Hisyam-Az
 - 👀 I’m interested in Web Progamming
 - 🌱 I’m currently learning Coding
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me With @noth1sy4m._
 
 <!---
