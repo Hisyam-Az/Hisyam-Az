@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Belajar Membuat Tabel HTML</title>
+</head>
+<body>
+    <table border="1">
+	    <tr>
+		    <th colspan="8">Jadwal piket<th>
+		</tr>
+        <tr>
+		    <th rowspan="2" >No</th>
+            <th rowspan="2" >Nama</th>
+            <th colspan="6" >Hari</th>
+        </tr>
+        <tr>
+            <th>sabtu</th>
+            <th>minggu</th>
+			<th>senin</th>
+			<th>selasa</th>
+			<th>rabu</th>
+			<th>kamis</th>
+        </tr>
+        <tr>
+		    <td>1</td>
+            <td>Razan Muhammad Hisyam</td>
+			<td></td>
+			<td></td>
+			<td colspan="3" bgcolor=FF0000 ></td>
+		    <td></td>
+        </tr>
+		<tr>
+		    <td>2</td>
+			<td>Rubi Amani</td>
+			<td colspan="3" bgcolor=28CA00 ></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+    </table>
+	<p>
+	<a href="webpro.html">cv</a>
+	</p>
+</body>
+</html>
